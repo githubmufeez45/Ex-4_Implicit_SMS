@@ -35,7 +35,7 @@ Registeration Number : 212221043007
 */
 ```
 
-#MainActivity.java:
+##MainActivity.java:
 
 ```
 package com.example.exp_4;
@@ -71,9 +71,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+```
 
-
-#activitymain.xml:
+##activitymain.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -95,6 +95,13 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
+![367644231-45ddf316-3077-4f3f-85cb-8786ad1a2823](https://github.com/user-attachments/assets/a1a39864-187c-4514-a69c-55dd6f3dffe6)
+
+
+![367644234-2d79a149-385b-4df2-b45f-45d7a32b6900](https://github.com/user-attachments/assets/b5387021-5f3f-44f8-ab12-1fe1f48bf028)
+
+
+![367644248-aea6e8db-e427-4795-861d-f776db95003a](https://github.com/user-attachments/assets/04b4688d-20b7-4dde-8c54-1d04951372ea)
 
 
 
